@@ -1,3 +1,3 @@
-# TEI XML files
+# TEI-encoded textual data
 
-Their presentation is powered by [TEI Boilerplate](http://dcl.ils.indiana.edu/teibp/) and [CETEIcean](https://github.com/TEIC/CETEIcean)
+presentation is powered by [TEI Boilerplate](http://dcl.ils.indiana.edu/teibp/) and [CETEIcean](https://github.com/TEIC/CETEIcean)
