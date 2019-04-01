@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mindstorms</title>
+        <author>
+          <persName>Seymour Papert</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Seymour Papert</author>
+          <title>Mindstorms</title>
+          <pubPlace>Basel</pubPlace>
+          <date>1982</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:pap28.min80.ger82">
+      <p n="1">Im fortgeschrittenen Stadium einer einjährigen Studie, während der leistungsfähige Computer in einer Gruppe »durchschnittlicher« Siebtklässler benutzt wurden, arbeiteten die Schüler an »Computerpoesie«, wie sie es nannten.</p>
+      <p n="2">Sie benutzten Computerprogramme, um Sätze zu erzeugen.</p>
+      <p n="3">Sie gaben dem Computer eine syntaktische Struktur vor, innerhalb deren er nach dem Zufallsprinzip Wörter aus einer gegebenen Liste auswählen sollte.</p>
+      <p n="4">Das Ergebnis ist die Art konkreter Poesie, die wir in der folgenden Abbildung sehen können.</p>
+      <p n="5">INSANE RETARD MAKES BECAUSE SWEET SNOOPY SCREAMS</p>
+      <p n="6">SEXY WOLF LOVES THATS WHYTHE SEXY LADY HATES</p>
+      <p n="7">UGLY MAN LOVES BECAUSE UGLY DOG HATES</p>
+      <p n="8">MAD WOLF HATES BECAUSE INSANE WOLF SKIPS</p>
+      <p n="9">SEXY RETARD SCREAMS THATS WHY THE SEXY RETARD</p>
+      <p n="10">HATES</p>
+      <p n="11">THIN SNOOPY RUNS BECAUSE FAT WOLF HOPS</p>
+      <p n="12">SWEET FOGINY SKIPS A FAT LADY RUNS</p>
+      <p n="13">VERRÜCKTER ZURÜCKGEBLIEBENER MACHT WEIL SÜSSER SNOOPY SCHREIT</p>
+      <p n="14">SEXY WOLF LIEBT WEIL HÄSSLICHER WOLF HASST</p>
+      <p n="15">VERRÜCKTER WOLF HASST WEIL GEISTESKRANKER WOLF HÜPFT</p>
+      <p n="16">SEXY ZURÜCKGEBLIEBENER SCHREIT DARUM DER SEXY ZURÜCKGEBLIEBENE</p>
+      <p n="17">HASST</p>
+      <p n="18">DÜNNER SNOOPY RENNT WEIL FETTER WOLF HOPST</p>
+      <p n="19">SÜSSER FOGINY HÜPFT EINE FETTE DAME RENNT</p>
+      <p n="20">Eine der Schülerinnen, die dreizehnjährige Jenny, hatte die Projektbetreuer tief gerührt, als sie am ersten Tag ihrer Computerarbeit fragte: »Warum sind wir für das hier ausgewählt worden? Wir sind nicht die Guten.«</p>
+      <p n="21">Das Projekt hatte absichtlich »durchschnittliche« Schüler gewählt.</p>
+      <p n="22">Eines Tages kam Jenny sehr aufgeregt herein. Sie hatte etwas entdeckt.</p>
+      <p n="23">»Jetzt weiß ich, warum wir Substantive und Verben haben«, sagte sie.</p>
+      <p n="24">Jahrelang war Jenny in der Schule in grammatischen Kategorien gedrillt worden.</p>
+      <p n="25">Sie hatte nie den Unterschied zwischen Substantiven, Verben und Adverbien verstanden.</p>
+      <p n="26">Aber jetzt wurde deutlich, daß ihre Grammatikprobleme nicht an der Unfähigkeit lagen, mit logischen Kategorien zu arbeiten.</p>
+      <p n="27">Es war etwas anderes. Sie hatte einfach keinen Sinn in dem Unternehmen gesehen.</p>
+      <p n="28">Sie hatte überhaupt nicht verstanden, worum es bei Grammatik geht und wofür sie 'gut sein' könnte.</p>
+      <p n="29">Wenn man die Verbindung von Grammatiklernen zu besserem Sprechen herstellen will, braucht man in der Tat einen besseren Überblick über den komplizierten Prozeß des Sprachenlernens als Jenny haben konnte, als sie das erste Mal mit Grammatik in Berührung kam.</p>
+      <p n="30">Sie sah jedenfalls nicht, auf welche Weise Grammatik beim Sprechen helfen konnte, außerdem glaubte sie nicht, daß ihr Sprechen der Hilfe bedurfte.</p>
+      <p n="31">Darum lernte sie, Grammatik mit Widerwillen anzugehen. Und wie es meistens der Fall ist, erzeugte Widerwillen Versagen.</p>
+      <p n="32">Aber nun, als sie versuchte, den Computer dazu zu bringen, Poesie zu erzeugen, geschah etwas Bemerkenswertes.</p>
+      <p n="33">Sie merkte, daß sie Wörter in Kategorien einteilte; nicht, weil es ihr gesagt worden war, sondern weil sie es brauchte.</p>
+      <p n="34">Um ihren Computer zu »lehren«, Wortketten zu erzeugen, die wie Englisch aussahen, mußte sie ihn »lehren«, Worte aus einer angemessenen Kategorie zu wählen.</p>
+      <p n="35">Was sie aus dieser Erfahrung mit einer Maschine über Grammatik lernte, war alles andere als mechanisch oder Routine.</p>
+      <p n="36">Ihr Lernen war tiefgreifend und sinnvoll. Jenny tat mehr als Definitionen für bestimmte grammatische Kategorien lernen.</p>
+      <p n="37">Sie verstand das übergreifende Prinzip, daß nämlich Wörter (wie Gegenstände) in verschiedene Gruppen eingeteilt werden können und daß dies ihr helfen kann.</p>
+      <p n="38">Sie «verstand» Grammatik nicht nur, sie bekam eine andere Beziehung dazu. Die Grammatik »gehörte ihr«, und während ihres Jahres mit dem Computer halfen Vorfälle wie der erwähnte Jenny, ihr Selbstbild zu verändern.</p>
+      <p n="39">Ihre Leistungen veränderten sich ebenfalls; ihre ehemals schlechten bis mittelmäßigen Noten wurden für den Rest ihrer Schulzeit zu »glatten Einsen«.</p>
+      <p n="40">Sie lernte, daß auch sie zu »den Guten« gehören konnte.</p>
+      <p n="41">Von 1968 bis 1969 arbeitete die erste Klasse von 12 »durchschnittlichen« Siebtkläßlern von der Muzzy Junior High School in Lexington, Massachusetts, während des ganzen Schuljahres mit LOGO anstatt ihrem normalen Lehrplan für Mathematik. ... Die Schüler schrieben Programme ..., die konkrete Poesie erzeugten.</p>
+    </body>
+  </text>
+</TEI>

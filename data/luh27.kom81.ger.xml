@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kommunikation mit Zettelkästen</title>
+        <author>
+          <persName>Niklas Luhmann</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Niklas Luhmann</author>
+          <title>Kommunikation mit Zettelkästen</title>
+          <pubPlace>Opladen</pubPlace>
+          <date>1981</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:luh27.kom81.ger">
+      <p n="1">Ohne zu schreiben, kann man nicht denken; jedenfalls nicht in anspruchsvoller, anschlußfähiger Weise.</p>
+      <p n="2">Wenn man aber sowieso schreiben muß, ist es zweckmäßig, diese Aktivität zugleich auszunutzen, um sich im System der Notizen einen kompetenten Kommunikationspartner zu schaffen.</p>
+      <p n="3">Für Kommunikation ist eine der elementaren Voraussetzungen, daß die Partner sich wechselseitig überraschen können.</p>
+      <p n="4">Nur so ist ein Generieren von Information im jeweils anderen möglich.</p>
+      <p n="5">Soll ein Kommunikationssystem über längere Zeit zusammenhalten, muß entweder der Weg hochgradig technischer Spezialisierung oder der Weg von Inkorporation von Zufall und ad hoc generierter Information gewählt werden.</p>
+      <p n="6">Auf Notizsammlungen übertragen: Man kann den Weg einer thematischen Spezialisierung oder den Weg einer offenen Anlage wählen.</p>
+      <p n="7">Wir haben uns für die zuletzt genannte Alternative entschieden, und nach nunmehr 26 Jahren erfolgreicher, nur gelegentlich schwieriger Zusammenarbeit können wir den Erfolg – oder zumindest: die Gangbarkeit dieses Weges bestätigen.</p>
+      <p n="8">Wie muß der Zettelkasten angelegt sein, damit er entsprechende kommunikative Kompetenz erwirbt?</p>
+      <p n="9">(1) Beliebige innere Verzweigungsfähigkeit.</p>
+      <p n="10">(2) Verweisungsmöglichkeiten.</p>
+      <p n="11">(3) Register.</p>
+      <p n="12">Als Ergebnis längerer Arbeit mit dieser Technik entsteht eine Art Zweitgedächtnis, ein alter Ego, mit dem man laufend kommunizieren kann.</p>
+      <p n="13">Es weist, darin dem Gedächtnis ähnlich, keine durchkonstruierte Gesamtordnung auf, auch keine Hierarchie und erst recht keine lineare Struktur wie ein Buch.</p>
+      <p n="14">Eben dadurch gewinnt es ein von seinem Autor unabhängiges Eigenleben.</p>
+      <p n="15">Die Gesamtheit der Notizen läßt sich nur als Unordnung beschreiben, immerhin aber als Unordnung mit nichtbeliebiger interner Struktur.</p>
+      <p n="16">Jede Notiz ist nur ein Element, das seine Qualität erst aus dem Netz der Verweisungen und Rückverweisungen im System erhält.</p>
+      <p n="17">Eine Notiz, die an dieses Netz nicht angeschlossen ist, geht im Zettelkasten verloren, wird vom Zettelkasten vergessen.</p>
+      <p n="18">Will man einen Kommunikationspartner aufziehen, ist es gut, ihn mit Selbständigkeit auszustatten.</p>
+      <p n="19">Natürlich setzt Selbständigkeit ein Mindestmaß an Eigenkomplexität voraus.</p>
+      <p n="20">Der Zettelkasten braucht einige Jahre, um genügend kritische Masse zu gewinnen.</p>
+      <p n="21">Bis dahin arbeitet er nur als Behälter, aus dem man herausholt, was man hineingetan hat.</p>
+      <p n="22">Mit zunehmender Größe und Komplexität wird dies anders.</p>
+      <p n="23">Jedenfalls gewinnt die Kommunikation an Fruchtbarkeit, wenn es gelingt, aus Anlaß von Eintragungen oder von Abfragen das interne Verweisnetz in Betrieb zu setzen.</p>
+      <p n="24">Auch ein Gedächtnis funktioniert ja nicht als Summe von Punkt-zu-Punkt-Zugriffen, sondern benutzt interne Relationierungen und wird erst auf dieser Ebene der Reduktion eigener Komplexität fruchtbar.</p>
+      <p n="25">Auf diese Weise wird – durchaus punktuell, in diesem Moment, aus Anlaß eines Suchimpulses – mehr an Information verfügbar, als man bei der Anfrage im Sinn hatte; und vor allem mehr an Information, als jemals in der Form von Notizen gespeichert worden waren.</p>
+      <p n="26">Der Zettelkasten gibt aus gegebenen Anlässen kombinatorische Möglichkeiten her, die so nie geplant, nie vorgedacht, nie konzeptioniert worden waren.</p>
+    </body>
+  </text>
+</TEI>

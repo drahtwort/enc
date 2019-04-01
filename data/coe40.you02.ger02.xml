@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Die jungen Jahre</title>
+        <author>
+          <persName>J. M. Coetzee</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>J. M. Coetzee</author>
+          <title>Die jungen Jahre</title>
+          <pubPlace>Frankfurt am Main</pubPlace>
+          <date>2002</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:coe40.you02.ger02">
+      <p n="1">Obwohl Atlas nicht als Computer zur Verarbeitung von Sprachtexten konstruiert wurde, lässt er ihn in den Stunden und um Mitternacht Tausende von Versen im Stil Pablo Nerudas ausdrucken, wobei er als Lexikon eine Liste der kraftvollsten Wörter aus 'The Heights of Macchu Picchu' (Die Höhen von Macchu Picchu) in der Übersetzung von Nathaniel Tarn benutzt. Er nimmt den dicken Papierstoß mit ins Royal-Hotel und brütet darüber. ›The nastalgia of teapots‹ (Die Nostalgie der Teekessel). ›The ardour of shutters‹ (Die Glut der Jalousien). ›Furious horsemen‹ (Wütende Reiter).</p>
+      <p n="2">Wenn er momentan keine Poesie schreiben kann, die aus dem Herzen kommt, wenn sein Herz nicht in der richtigen Verfassung ist, um eigene Poesie zu schaffen, kann er da nicht wenigstens Pseudogedichte aus maschinell erzeugten Wendungen zusammenbauen und so, indem er den Schreibprozess mechanisiert, wieder schreiben lernen?</p>
+      <p n="3">Ist es fair, mechanische Hilfen fürs Schreiben in Anspruch zu nehmen – fair anderen Dichtern gegenüber, fair den toten Meistern gegenüber?</p>
+      <p n="4">Die Surrealisten schrieben Wärter auf Zettel, warfen sie in einen Hut und zogen dann willkürlich Wörter, um daraus Verse zu machen. William Burroughs zerschneidet bedruckte Seiten und arrangiert Teile neu. Macht er nicht dasselbe? Oder ver-/wandeln seine riesigen Ressourcen – nicht andere Dichter in England oder in der ganzen Welt hat eine Maschine dieser Größe zur Verfügung – Quantität in Qualität?</p>
+      <p n="5">Aber könnte man nicht einwenden, dass die Erfindung von Computern das Wesen der Kunst verändert hat, weil dadurch der Autor und die Verfassung seines Herzens bedeutungslos werden?</p>
+      <p n="6">Im dritten Programm hat er Musik aus den Tonstudios von Radio Köln gehört – aus elektronischen Pfeifen und Knistern, aus Straßenlärm, Bruchstücken alter Aufnahmen und Redefetzen zusammengeschweißte Musik. Ist es nicht an der Zeit, dass die Poesie mit der Musik gleichzieht?</p>
+      <p n="7">Er schickt eine Auswahl seiner Neruda-Gedichte an einen Freund in Kapstadt, der sie in einer Zeitschrift, die er herausgibt, veröffentlicht. Ein Lokalblatt druckt eins der Computergedichte mit einem verächtlichen Kommentar ab. Für einen Tag oder zwei ist er daheim in Kapstadt berüchtigt als der Barbar, der Shakespeare durch eine Maschine ersetzen will.</p>
+    </body>
+  </text>
+</TEI>

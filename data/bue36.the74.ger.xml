@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Theorie der Avantgarde</title>
+        <author>
+          <persName>Peter Bürger</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Peter Bürger</author>
+          <title>Theorie der Avantgarde</title>
+          <pubPlace>Frankfurt am Main</pubPlace>
+          <date>1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:bue36.the74.ger">
+      <p n="1">Mit dem Aufkommen der Fotografie und der damit gegebenen Möglichkeit der exakten Wiedergabe von Wirklichkeit auf mechanischem Wege verkümmert die Abbildfunktion in der bildenden Kunst.</p>
+      <p n="2">Die Grenzen dieses Erklärungsmodells werden jedoch deutlich, wenn man sich vergegenwärtigt, daß es sich nicht auf die Literatur übertragen läßt, denn es gibt im Bereich der Literatur keine technische Neuerung, die eine vergleichbare Wirkung hervorgebracht hätte wie die Fotographie in der bildenden Kunst.</p>
+    </body>
+  </text>
+</TEI>

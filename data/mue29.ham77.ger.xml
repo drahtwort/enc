@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hamletmaschine</title>
+        <author>
+          <persName>Heiner Müller</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Heiner Müller</author>
+          <title>Hamletmaschine</title>
+          <date>1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:mue29.ham77.ger">
+      <p n="1">Ich bin die Schreibmaschine.</p>
+      <p n="2">Ich bin mein Gefangener.</p>
+      <p n="3">Ich füttere mit meinen Daten die Computer.</p>
+      <p n="4">Ich bin die Datenbank.</p>
+      <p n="5">Blutend in der Menge.</p>
+      <p n="6">Ich will eine Maschine sein.</p>
+    </body>
+  </text>
+</TEI>

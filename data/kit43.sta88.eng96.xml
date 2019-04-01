@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The City Is a Medium</title>
+        <author>
+          <persName>Friedrich Kittler</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Friedrich Kittler</author>
+          <title>The City Is a Medium</title>
+          <date>1996</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="eng" n="urn:cts:draht:kit43.sta88.eng96">
+      <p n="1">Time in the city is a function of transfers, turn-ons and turn-offs.</p>
+      <p n="2">Record, transmit and process information––this is the most definition of media.</p>
+      <p n="3">Media can include old-fashioned things like books, familiar things like the city and newer inventions like the computer.</p>
+      <p n="4">The of development technological media––from digital transmission media, like the telegraph, to analog recording media, like gramophone and film, and to the media for their transmission, radio and television––comes logically full circle.</p>
+      <p n="5">Other media can, likewise, be transferred to the discrete universal machine.</p>
+      <p n="6">And this is reason enough ... to decipher past media and the historical function of what we refer to as “man,” as the play between commands, addresses, and data.</p>
+      <p n="7">Founding a capital today means that at highway intersections and in train stations, in time tables and networks, a new “hub” arises, computer which centralizes the flow of energy and information.</p>
+      <p n="8">Power ... means occupying at the right moment the channels for technological data processing.</p>
+    </body>
+  </text>
+</TEI>

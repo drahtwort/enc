@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>City of Bits</title>
+        <author>
+          <persName>William J. Mitchell</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>William J. Mitchell</author>
+          <title>City of Bits</title>
+          <pubPlace>Cambridge, Massachusetts</pubPlace>
+          <date>1995</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="eng" n="urn:cts:draht:mit44.cit95.eng">
+      <p n="1">As the 'fin-de-K' countdown cranked into the nineties, I became increasingly curious about the technicians I saw poking about in manholes.</p>
+      <p n="2">They were not sewer or gas workers; evidently they were up to something quite different.</p>
+      <p n="3">So I began to ask them what they were doing. "Pulling glass," was the usual reply.</p>
+      <p n="4">They were stringing together some local, fiber-optic fragments of what was fast becoming a worldwide, broadband, digital telecommunications network.</p>
+      <p n="5">Just as Baron Haussmann had imposed a bold spider's web of broad, straight boulevards on the ancient tangle of Paris, and as nineteenth-century railroad workers had laid sleepers and steel to shrink the windy distances of the North American frontier, these post-whatever construction crews were putting in place an infobahn – and thus reconfiguring space and time relationships in ways that promised to change our lives forever.</p>
+      <p n="6">Yet their revolutionary intervention was swift, silent, and (to most eyes) invisible.</p>
+      <p n="7">My name is wjm@mit.edu (though I have many aliases), and I am an electronic fianeur.</p>
+      <p n="8">I hang out on the network.</p>
+      <p n="9">The keyboard is my café.</p>
+      <p n="10">Each morning I turn to some nearby machine –– my modest personal computer at home, a more powerful workstation in one of the offices or laboratories that I frequent, or a laptop in a hotel room - to log into electronic mail.</p>
+      <p n="11">I click on an icon to open an "inbox" filled with messages from round the world - replies to technical questions, queries for me to answer, drafts of papers, submissions of student work, appointments, travel and meeting arrangements, bits of business, greetings, reminders, chitchat, gossip, complaints, tips, jokes, flirtation.</p>
+      <p n="12">I type replies immediately, then drop them into an "outbox," from which they are forwarded automatically to the appropriate destinations.</p>
+    </body>
+  </text>
+</TEI>

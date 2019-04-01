@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Computerpoeme</title>
+        <author>
+          <persName>Siegfried J. Schmidt</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Siegfried J. Schmidt</author>
+          <title>Computerpoeme</title>
+          <pubPlace>Köln</pubPlace>
+          <date>1969</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:sch40.com69.ger71">
+      <p n="1">Das Angebot an solchen Texten ist bis heute noch sehr klein, sowohl was den Umfang als was die Reichhaltigkeit anbetrifft.</p>
+      <p n="2">Aber allein schon das Phânomen MASCHINELL hergestellter Texte zwingt zu Oberlegungen über ihre Kennzeichnung und die Moglichkeit ihrer Einordnung in den Bereich dessen was herkömmlicherweise lyrischer oder dichterischer Text heißt oder heißen sollte.</p>
+      <p n="3">Die Entwicklung leistungsfâhiger Rechenanlagen in den letzten zwanzig Jahren hat dazu geführt, daß man programmgesteuerte Rechner auch auf solchen Gebieten einzusetzen beginnt, die bislang ausschließlich der technisch unvermittelten Arbeit und der menschlich-intuitiven Kombinatorik vorbehalten sehienen: auf den Gebieten sogenannter Denkleistungen (speziell der logischen Kombinatorik) und der Produktion von sogenannter Kunst.</p>
+    </body>
+  </text>
+</TEI>

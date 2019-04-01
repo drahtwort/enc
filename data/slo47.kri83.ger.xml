@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Krtik der zynischen Vernunft</title>
+        <author>
+          <persName>Peter Sloterdijk</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Peter Sloterdijk</author>
+          <title>Krtik der zynischen Vernunft</title>
+          <pubPlace>Frankfurt am Main</pubPlace>
+          <date>1983</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:slo47.kri83.ger">
+      <p n="1">Die Methode der Darstellung ist assoziativ und zugleich konstruierend.</p>
+      <p n="2">Für sie sind ausführliche 'Zitate' grundlegend.</p>
+      <p n="3">Ich möchte dem Leser gern etwas mitteilen von der Verblüffung, die durch pure Lektüre – allerdings in vorbereiteten Zusammenhängen – hervorgerufen werden kann.</p>
+      <p n="4">Die Themen sind relativ vielfältig, werden nirgendwo zu Ende verfolgt.</p>
+      <p n="5">Jedes Kapitel muß eine Andeutung bleiben.</p>
+      <p n="6">In der Summe ergibt sich ein methodisch durchdachtes Labyrinth, als könnte man Epochenerkenntnis gewinnen, indem man durch Texte aus jener Zeit wie zwischen Spiegelwänden eines Lachkabinetts hindurchgeht.</p>
+      <p n="7">Damit möchte ich, was anders kaum gelingt, einen Gegenstand verständlicher machen, indem ich zeige, wie er, in seiner eigenen inneren Vielfalt und Gebrochenheit, unsere normalen Verstehenskräfte übersteigt.</p>
+      <p n="8">Was wir brauchen, ist ein logischer und historischer ›Kubismus‹, ein Simultandenken und -sehen.</p>
+      <p n="9">Wir sind im Alltag nicht ver-rückt genug, um die zur Normalität geronnene Verrücktheit unseres Alltags und unserer Geschichte richtig in den Blick zu bekommen.</p>
+    </body>
+  </text>
+</TEI>

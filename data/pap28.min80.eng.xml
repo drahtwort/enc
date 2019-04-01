@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mindstorms</title>
+        <author>
+          <persName>Seymour Papert</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Seymour Papert</author>
+          <title>Mindstorms</title>
+          <pubPlace>New York</pubPlace>
+          <date>1980</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="eng" n="urn:cts:draht:pap28.min80.eng">
+      <p n="1">Well into a year-long study that put powerful computers in the classrooms of a group of “average” seventh graders, the students were at work on what they called “computer poetry.”</p>
+      <p n="2">They were using computer programs to generate sentences.</p>
+      <p n="3">They gave the computer a syntactic structure within which to make random choices from given lists of words.</p>
+      <p n="4">The result is the kind of concrete poetry we see in the illustration that follows.</p>
+      <p n="5">INSANE RETARD MAKES BECAUSE SWEET SNOOPY SCREAMS</p>
+      <p n="6">SEXY WOLF LOVES THATS WHY THE SEXY LADY HATES</p>
+      <p n="7">UGLY MAN LOVES BECAUSE UGLY DOG HATES</p>
+      <p n="8">MAD WOLF HATES BECAUSE INSANE WOLF SKIPS</p>
+      <p n="9">SEXY RETARD SCREAMS THATS WHY THE SEXY RETARD</p>
+      <p n="10">HATES</p>
+      <p n="11">THIN SNOOPY RUNS BECAUSE FAT WOLF HOPS</p>
+      <p n="12">SWEET FOGINY SKIPS A FAT LADY RUNS</p>
+      <p n="13">One of the students, a thirteen-year-old named Jenny, had deeply touched the project’s staff by asking on the first day of her computer work, “Why were we chosen for this? We’re not the brains.”</p>
+      <p n="14">The study had deliberately chosen children of “average” school performance.</p>
+      <p n="15">One day Jenny came in very excited. She had made a discovery.</p>
+      <p n="16">“Now I know why we have nouns and verbs,” she said.</p>
+      <p n="17">For many years in school Jenny had been drilled in grammatical categories.</p>
+      <p n="18">She had never understood the differences between nouns and verbs and adverbs.</p>
+      <p n="19">But now it was apparent that her difficulty with grammar was not due to an inability to work with logical categories.</p>
+      <p n="20">It was something else. She had simply seen no purpose in the enterprise.</p>
+      <p n="21">She had not been able to make any sense of what grammar was about in the sense of what it might be 'for'.</p>
+      <p n="22">In fact, tracing the connection between learning grammar and improving speech requires a more distanced view of the complex process of learning language than Jenny could have been given at the age she first encountered grammar.</p>
+      <p n="23">She certainly didn't see any way in which grammar could help talking, nor did she think her talking needed any help.</p>
+      <p n="24">Therefore she learned to approach grammar with resentment.</p>
+      <p n="25">And, as is the case for most of us, resentment guaranteed failure.</p>
+      <p n="26">But now, as she tried to get the computer to generate poetry, something remarkable happened.</p>
+      <p n="27">She found herself classifying words into categories, not because she had been told she had to but because she needed to.</p>
+      <p n="28">In order to “teach” her computer to make strings of words that would look like English, she had to “teach” it to choose words of an appropriate class.</p>
+      <p n="29">What she learned about grammar from this experience with a machine was anything but mechanical or routine.</p>
+      <p n="30">Her learning was deep and meaningful. Jenny did more than learn definitions for particular grammatical classes.</p>
+      <p n="31">She understood the general idea that words (like things) can be placed in different groups or sets, and that doing so could work for her.</p>
+      <p n="32">She not only “understood” grammar, she changed her relationship to it.</p>
+      <p n="33">It was “hers,” and during her year with the computer, incidents like this helped Jenny change her image of herself.</p>
+      <p n="34">Her performance changed too; her previously low to average grades became “straight A’s” for her remaining years of school.</p>
+      <p n="35">She learned that she could be “a brain” after all.</p>
+      <p n="36">In 1968-1969, the first class of twelve “average” seventh-grade students at the Muzzy Junior High School in Lexington, Massachusetts, ... wrote programs ... to generate concrete poetry.</p>
+    </body>
+  </text>
+</TEI>

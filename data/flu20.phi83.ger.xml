@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Für eine Philosophie der Fotografie</title>
+        <author>
+          <persName>Vilém Flusser</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Vilém Flusser</author>
+          <title>Für eine Philosophie der Fotografie</title>
+          <pubPlace>Göttingen</pubPlace>
+          <date>1983</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:flu20.phi83.ger">
+      <p n="1">Der Fotograf arbeitet zwar nicht, aber irgend etwas tut er: er erzeugt, behandelt und speichert Symbole.</p>
+      <p n="2">Es hat immer Leute gegeben, die so etwas getan haben: Schriftsteller, Maler, Komponisten, Buchhalter, Verwalter.</p>
+      <p n="3">Dabei haben diese Leute Gegenstände hergestellt: Bücher, Gemälde, Partituren, Bilanzen, Pläne — Gegenstände, die nicht verbraucht wurden, sondern als Träger von Informationen dienten: sie wurden gelesen, betrachtet, gespielt, in Rechnung gezogen, als Entscheidungsgrundlage verwendet.</p>
+      <p n="4">Sie waren nicht Zweck, sondern Mittel.</p>
+      <p n="5">Gegenwärtig wird diese Art von Tätigkeit von den Apparaten übernommen.</p>
+      <p n="6">Dadurch werden die derart erzeugten Informationsgegenstände immer wirksamer und weitreichender, und sie können alle Arbeit im alten Sinn programmieren und kontrollieren.</p>
+      <p n="7">Und daher sind gegenwärtig die meisten Menschen an und in arbeitprogrammierenden und arbeitkontrollierenden Apparaten beschäftigt.</p>
+      <p n="8">Betrachtet man den Fotoapparat (und den Apparat allgemein) in diesem Sinn, dann erkennt man, daß er Symbole herstellt: symbolische Flächen, so wie sie ihm in einer bestimmten Weise vorgeschrieben wurden.</p>
+      <p n="9">Der Fotoapparat ist programmiert, Fotografien zu erzeugen, und jede Fotografie ist eine Verwirklichung der im Programm des Apparates enthaltenen Möglichkeiten.</p>
+      <p n="10">Die Zahl dieser Möglichkeiten ist groß, aber sie ist dennoch endlich: es ist die Zahl all jener Fotografien, die von einem Apparat aufgenommen werden können.</p>
+      <p n="11">Der Fotograf ist bemüht, das Fotoprogramm zu erschöpfen, indem er alle seine Möglichkeiten verwirklicht.</p>
+      <p n="12">Aber dieses Programm ist reich und unübersichtlich.</p>
+      <p n="13">So bemüht sich der Fotograf, die in ihm noch unentdeckten Möglichkeiten ausfindig zu machen...</p>
+      <p n="14">Eine solche Tätigkeit ist der des Schachspielens vergleichbar.</p>
+      <p n="15">Auch der Schachspieler sucht nach neuen Möglichkeiten im Schachprogramm, nach neuen Zügen.</p>
+      <p n="16">So wie er mit den Steinen spielt, spielt der Fotograf mit dem Apparat.</p>
+      <p n="17">Der Fotoapparat ist kein Werkzeug, sondern ein Spielzeug, und der Fotograf kein Arbeiter, sondern ein Spieler: nicht ›homo faber‹, sondern ›homo ludens‹.</p>
+      <p n="18">Nur spielt der Fotograf nicht mit, sondern gegen sein Spielzeug.</p>
+      <p n="19">Er kriecht in den Apparat hinein, um die darin verborgenen Schliche ans Licht zu bringen.</p>
+      <p n="20">Anders als der vom Werkzeug umgebene Handwerker und der an der Maschine stehende Arbeiter ist der Fotograf im Apparat drinnen und mit dem Apparat verflochten.</p>
+      <p n="21">Dies ist eine neuartige Funktion, bei der der Mensch weder die Konstante noch die Variable ist, sondern in der Mensch und Apparat zur Einheit verschwimmen.</p>
+      <p n="22">Deshalb ist es angebracht, den Fotografen einen Funktionär zu nennen.</p>
+      <p n="23">Wie noch gezeigt werden wird, bestehen die Programme der Apparate aus Symbolen.</p>
+      <p n="24">Funktionieren heißt dann, mit Symbolen spielen und diese kombinieren.</p>
+      <p n="25">Der Schriftsteller kann als ein Funktionär des Apparates ›Sprache‹ angesehen werden, der mit den im Sprachprogramm enthaltenen Symbolen – mit Worten – spielt, indem er sie kombiniert.</p>
+      <p n="26">Seine Absicht besteht darin, das Sprachprogramm zu erschöpfen und das Sprachuniversum, die Literatur, zu bereichern.</p>
+      <p n="27">... Sprache gegenwärtig apparatisiert ...</p>
+      <p n="28">›Word Processors‹ können die Schriftsteller ersetzen.</p>
+      <p n="29">Bei seinem Wortspiel informiert der Schriftsteller Seiten – er drückt ihnen Buchstaben auf –, was auch der Word Processor tun kann, und obwohl dies ›automatisch‹, das heißt zufällig geschieht, kann er, auf lange Sicht, die gleichen Informationen wie der Schriftsteller erzeugen.</p>
+      <p n="30">Freilich, ein ›letztes‹ Programm eines ›letzten‹ Apparates kann es nicht geben, da jedes Programm ein Metaprogramm erfordert, von dem aus es programmiert wird.</p>
+      <p n="31">Die Programmhierarchie ist nach oben offen.</p>
+    </body>
+  </text>
+</TEI>

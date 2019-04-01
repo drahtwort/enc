@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avantgarde as Software</title>
+        <author>
+          <persName>Lev Manovich</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Lev Manovich</author>
+          <title>Avantgarde as Software</title>
+          <pubPlace>Frankfurt am Main; New York</pubPlace>
+          <date>1999</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="eng" n="urn:cts:draht:man60.ava99.eng">
+      <p n="1">When radically new cultural forms appropriate for the age of wireless telecommunication, multitasking operating systems and information appliances do arrive, what will they look like?</p>
+      <p n="2">In short, the avant-garde vision became materialized in a computer.</p>
+      <p n="3">All the strategies developed to awaken audiences from the dream-existence of bourgeois society (constructivist design, new typography, avant-garde cinematography and film editing, photo-montage, etc.) now define the basic routine of a post-industrial society: interaction with a computer.</p>
+      <p n="4">For example, the avant-garde strategy of collage re-emerged as a "cut and paste" command, the most basic operation one can perform on any computer data.</p>
+      <p n="5">In another example, dynamic windows, pull-down menus, and HTML tables all allow a computer user to work simultaneously with practically unrestricted amounts of information despite the limited surface of the computer screen.</p>
+      <p n="6">This strategy can be traced to Lissitzky's use of movable frames in his 1926 exhibition design for the International Art Exhibition in Dresden.</p>
+      <p n="7">... what was a radical aesthetic vision in the 1920s became a standard computer technology by the 1990s.</p>
+      <p n="8">Given the Transformation of the avant-garde techniques into software, described above, shall we conclude that the only claim of new media to an avant-garde status lies in its connection to the old, modernist avant-garde?</p>
+      <p n="9">The answer is no.</p>
+      <p n="10">New media does introduce an equally revolutionary set of communication techniques.</p>
+      <p n="11">It indeed represents the new avant-garde, and its innovations are at least as radical as the formal innovations of the 1920s.</p>
+      <p n="12">But if we are to look for these innovations in the realm of forms, this traditional area of cultural evolution, we will not find them there.</p>
+      <p n="13">For the new avant-garde is radically different from the old:</p>
+      <p n="14">1. The ›old media avant-garde‹ of the 1920s came up with new forms, new ways to represent reality and new ways to see the world.</p>
+      <p n="15">The ›new media avant-garde‹ is about new ways of accessing and manipulating information.</p>
+      <p n="16">Its techniques are hypermedia, databases, search engines, data mining, image processing, visualization, simulation.</p>
+      <p n="17">2. The new avant-garde is no longer concerned with seeing or representing the world in new ways but rather with accessing and using in new ways previously accumulated media. in this respect new media is post-media or ›meta-media‹, as it uses old media as its primary material.</p>
+    </body>
+  </text>
+</TEI>

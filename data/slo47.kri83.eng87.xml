@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Critique of Cynical Reason</title>
+        <author>
+          <persName>Peter Sloterdijk</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Peter Sloterdijk</author>
+          <title>Critique of Cynical Reason</title>
+          <pubPlace>Minneapolis</pubPlace>
+          <date>2001</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="eng" n="urn:cts:draht:slo47.kri83.eng87">
+      <p n="1">The method of presentation is associative and simultaneously construing.</p>
+      <p n="2">For it, extensive quotations are fundamental.</p>
+      <p n="3">I would like to communicate to the reader something of the perplexity that can be summoned through a pure reading—of course, in a prepared context.</p>
+      <p n="4">The themes are relatively multifaceted; they are not pursued to their end anywhere.</p>
+      <p n="5">Every chapter has to remain a hint.</p>
+      <p n="6">Altogether, a methodically thought-out labyrinth results, as if we could gain knowledge of an epoch by going through texts from that time as through and between the mirrored walls of a carnival fun house.</p>
+      <p n="7">Any other way would not succeed.</p>
+      <p n="8">I want to make an object more comprehensible by showing how, in its own inner many-sidedness and fracturedness, it exceeds our normal powers of understanding.</p>
+      <p n="9">What we need is a logical and historical “cubism,” a simultaneity in thinking and in seeing.</p>
+      <p n="10">In daily life, we are not deranged enough to get a proper perspective on the derangement that has coagulated to normality of our everyday life and our history.</p>
+    </body>
+  </text>
+</TEI>

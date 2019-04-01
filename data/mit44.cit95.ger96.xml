@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>City of Bits</title>
+        <author>
+          <persName>William J. Mitchell</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>William J. Mitchell</author>
+          <title>City of Bits</title>
+          <pubPlace>Basel</pubPlace>
+          <date>1996</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:mit44.cit95.ger96">
+      <p n="1">So wie einst Baron Haussmann kühn ein Spinnennetz breiter, gerader Boulevards durch das Straßengewirr des alten Paris gezogen hatte und so wie die Eisenbahnarbeiter des 19. Jahrhunderts Schwellen und Stahl verlegt und die windigen Weiten des nordamerikanischen Grenzlandes hatten schrumpfen lassen, bauten diese Post-was auch-immer-Bautrupps eine Datenautobahn, die die Beziehungen zwischen Raum und Zeit so tiefgreifend umstrukturiert, daß sich unser Leben für immer verändern dürfte.</p>
+      <p n="2">Und dennoch vollzog sich dieser revolutionäre Umbau in kürzester Zeit und – von den meisten unbemerkt – in aller Stille</p>
+      <p n="3">Ich bin ein elektronischer Flaneur.</p>
+      <p n="4">Ich gehe im Netzwerk bummeln.</p>
+      <p n="5">Die Tastatur ist mein Stammcafé</p>
+      <p n="6">Manche vielbesuchten MUDs sind fast unvorstellbar riesig; Sie können zwischen Tausenden unterschiedlicher Schauplätze, die alle jeweils besondere Eigenschaften aufweisen, hin- und herwandern wie Baudelaire durch das brodelnde Paris des 19. Jahrhunderts.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eine Stadt ist ein Medium</title>
+        <author>
+          <persName>Friedrich Kittler</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Drahtwort</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <date when="2018">2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Friedrich Kittler</author>
+          <title>Eine Stadt ist ein Medium</title>
+          <pubPlace>Wien</pubPlace>
+          <date>1988</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ger" n="urn:cts:draht:kit43.sta88.ger">
+      <p n="1">Mit Umsteigen und Umschalten vergeht die hauptstädtische Zeit.</p>
+      <p n="2">Speicherung, Übertragung und Verarbeitung von Informationen – nichts anderes ist die elementare Definition von Medien überhaupt.</p>
+      <p n="3">Unter sie fallen so altmodische Dinge wie Bücher, so vertraute wie die Stadt und so neue wie Computer.</p>
+      <p n="4">Die Entwicklung technischer Medien, wie sie vom digitalen Übertragungsmedium Telegraphie über die analogen Speichermedien Schallplatte und Film zu ihren Übertragungsmedien Radio und Fernsehen führte, kommt an ein logisch perfektes Ende.</p>
+      <p n="5">Alle anderen Medien sind in die Diskrete Universale Maschine grundsätzlich überführbar.</p>
+      <p n="6">Grund genug, ... die vergangenen Medien und historischen Funktionen des sogenannten Menschen als ein Spiel zwischen Befehlen, Adressen und Daten zu entziffern.</p>
+      <p n="7">Hauptstadtgründung heute heißt einfach, daß an Autobahnkreuzen und Bahnhöfen, in Fahrplänen und Computernetzen eine neue ›Zielspinne‹ entsteht, die den Fluß von Energien und Informationen zentriert.</p>
+      <p n="8">Macht heißt ..., Kanäle technischer Datenverarbeitung rechtzeitig zu besetzen.</p>
+    </body>
+  </text>
+</TEI>
